@@ -1,5 +1,6 @@
-# SMM4H_21
-<b> Task 5 : Classification of tweets self-reporting potential cases of COVID-19 </b> 
+<h1> # SMM4H_21 </h1>
+
+<h2> Task 5 : Classification of tweets self-reporting potential cases of COVID-19 </h2> 
 
 This new binary classification task involves automatically distinguishing tweets that self-report potential cases of COVID-19 (annotated as “1”) from those that do not (annotated as “0”). “Potential case” tweets include those indicating that the user or a member of the user’s household was denied testing for, symptomatic of, directly exposed to presumptive or confirmed cases of COVID-19, or has had experiences that pose a higher risk of exposure to COVID-19. “Other” tweets are related to COVID-19 and may discuss topics such as testing, symptoms, traveling, or social distancing, but do not indicate that the user or a member of the user’s household may be infected.
 
@@ -14,9 +15,10 @@ Identifying personal mentions of COVID19 symptoms requires distinguishing person
 
 <p> This task is considered a three-way classification task where the target classes are: </p>
 <ul> 
-  <li> (1) self-reports </li>
-  <li> (2) non-personal reports </li>
-  <li> (3) literature/news mentions </li>
+  <li> self-reports </li>
+  <li> non-personal reports </li>
+  <li> literature/news mentions </li>
+</ul>
 
 <ul>
 <li> Training data: 9,567 tweets </li>
