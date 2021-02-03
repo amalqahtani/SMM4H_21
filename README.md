@@ -24,3 +24,6 @@ Identifying personal mentions of COVID19 symptoms requires distinguishing person
   <li> Training data: 9,567 tweets  </li>
   <li>  Test data: 6,500 tweets  </li>
 </ul>
+
+Example of published papers at #SMM4H19
+ <url> https://www.aclweb.org/anthology/W19-3207.pdf </url>
