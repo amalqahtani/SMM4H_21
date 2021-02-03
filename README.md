@@ -25,5 +25,16 @@ Identifying personal mentions of COVID19 symptoms requires distinguishing person
   <li>  Test data: 6,500 tweets  </li>
 </ul>
 
-Example of published papers at #SMM4H19
- <url> https://www.aclweb.org/anthology/W19-3207.pdf </url>
+<p> Example of published papers at #SMM4H19: </p>
+ <ul>
+  <li> <url> https://www.aclweb.org/anthology/W19-3207.pdf </url> </li>
+  <li><url> https://www.aclweb.org/anthology/W19-3208.pdf </url> </li>
+  <li> <url>  https://www.aclweb.org/anthology/2020.smm4h-1.9.pdf </url> </li>
+  </ul>
+
+
+<h3> Team Members: <h3>
+  <ul> 
+    <li> Amal Alqahtani </li>
+    <li> Lulu AlKulaib </li>
+  </ul>
